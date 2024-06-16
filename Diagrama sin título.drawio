@@ -1,9 +1,185 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T15:12:27.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.5.4" etag="B2-DEODsESBBcxh8uF1u" type="github">
-  <diagram name="Página-1" id="XwG0qR-dqioNehBfLJ-C">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-06-16T15:45:41.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="A_4Qt7VyfdoiXZHdGNhX" version="24.5.4" type="github">
+  <diagram name="Conceptual Diagram" id="XwG0qR-dqioNehBfLJ-C">
+    <mxGraphModel dx="1538" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;u&gt;&lt;b&gt;CLIENTE&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="190" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-2" value="IdCliente (PK)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-1">
+          <mxGeometry x="31.670624999999994" y="13.335384615384616" width="122.704375" height="11.28" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-3" value="Cedula" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-1">
+          <mxGeometry x="31.670624999999994" y="38.95076923076923" width="98.95437499999998" height="14.356923076923074" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;nombre&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-1">
+          <mxGeometry x="31.670624999999994" y="66.18153846153845" width="63.32937499999999" height="17.433846153846154" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-5" value="Apellidos" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-1">
+          <mxGeometry x="31.670624999999994" y="95.48923076923076" width="75.20437499999998" height="14.356923076923074" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-6" value="Dirección" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-1">
+          <mxGeometry x="31.670624999999994" y="121.79692307692308" width="75.20437499999998" height="17.433846153846154" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-7" value="Telefono1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-1">
+          <mxGeometry x="31.670624999999994" y="153.0276923076923" width="87.07937499999998" height="14.356923076923074" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-49" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Telefono3&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-1">
+          <mxGeometry x="31.670624999999994" y="207.53846153846155" width="87.07937499999998" height="14.356923076923074" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-48" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Telefono2&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-1">
+          <mxGeometry x="31.670624999999994" y="181.18153846153848" width="87.07937499999998" height="14.356923076923074" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;u&gt;&lt;b&gt;PLAN_TRABAJO&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="10" y="370" width="290" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-11" value="IdPlanTrabajo (PK)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-10">
+          <mxGeometry x="48.333333333333336" y="21" width="241.66666666666669" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-12" value="IdEntrenamiento (FK)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-10">
+          <mxGeometry x="42.29166666666667" y="70" width="72.5" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-13" value="Mensualidad" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-10">
+          <mxGeometry x="50.75" y="105" width="48.333333333333336" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZxNKWPRsar4pVbc7PX9-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="491.1935483870968" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZxNKWPRsar4pVbc7PX9-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZxNKWPRsar4pVbc7PX9-14" target="LZxNKWPRsar4pVbc7PX9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZxNKWPRsar4pVbc7PX9-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724.0967741935483" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-14" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ENTRENAMIENTO&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFE645;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="430" width="310" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;EJERCICIO&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="387" width="229" height="192.85" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-22" value="IdEjercicio (PK)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-21">
+          <mxGeometry x="38.166666666666664" y="12.857142857142858" width="190.83333333333331" height="25.714285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-23" value="Nombre" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-21">
+          <mxGeometry x="38.17" y="51.43" width="71.83" height="25.71" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-24" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Descripción&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-21">
+          <mxGeometry x="38.17" y="90" width="61.83" height="25.71" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-25" value="Complejidad" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-21">
+          <mxGeometry x="38.17" y="128.57" width="81.83" height="25.71" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-26" value="Músculos Trabajados" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-21">
+          <mxGeometry x="38.17" y="167.14" width="121.83" height="25.71" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-27" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;u&gt;&lt;b&gt;ENTRENADOR&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="860" y="23.75" width="210" height="236.25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-28" value="IdEntrenador (PK)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-27">
+          <mxGeometry x="35" y="17.13" width="105" height="26.25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-29" value="Nombre" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-27">
+          <mxGeometry x="35" y="52.50000000000001" width="175" height="26.250000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-30" value="Apellidos" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-27">
+          <mxGeometry x="35" y="81.88" width="55" height="26.25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-31" value="Telefono1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-27">
+          <mxGeometry x="35" y="113.25" width="55" height="26.25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-32" value="Telefono2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-27">
+          <mxGeometry x="35" y="143.63" width="65" height="26.25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-33" value="Telefono3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-27">
+          <mxGeometry x="35" y="180" width="55" height="26.25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-34" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;CLIENTE_ENTRENADOR&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#75FFE3;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="90" width="311" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-37" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ENTRENAMIENTO_EJERCICIO&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="840" y="379" width="309" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-38" value="IdEntrenamiento (FK, PK)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-37">
+          <mxGeometry x="19.455555555555556" y="17.813793103448276" width="177.38888888888889" height="35.63448275862069" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-39" value="IdEjercicio (FK, PK)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-37">
+          <mxGeometry x="19.451077294685994" y="61.4904214559387" width="136.5914347826087" height="25.33844189016603" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-40" value="Sets" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-37">
+          <mxGeometry x="20.59552173913044" y="99.66283524904215" width="55.98273913043479" height="35.63218390804598" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-41" value="Repeticiones" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="LZxNKWPRsar4pVbc7PX9-37">
+          <mxGeometry x="20.599999999999998" y="151.39999999999998" width="97.27777777777777" height="21.84137931034483" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-42" edge="1" parent="1" source="LZxNKWPRsar4pVbc7PX9-1" target="LZxNKWPRsar4pVbc7PX9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-43" edge="1" parent="1" source="LZxNKWPRsar4pVbc7PX9-10" target="LZxNKWPRsar4pVbc7PX9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-44" edge="1" parent="1" source="LZxNKWPRsar4pVbc7PX9-14" target="LZxNKWPRsar4pVbc7PX9-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-45" edge="1" parent="1" source="LZxNKWPRsar4pVbc7PX9-21" target="LZxNKWPRsar4pVbc7PX9-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-46" edge="1" parent="1" source="LZxNKWPRsar4pVbc7PX9-1" target="LZxNKWPRsar4pVbc7PX9-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-47" edge="1" parent="1" source="LZxNKWPRsar4pVbc7PX9-27" target="LZxNKWPRsar4pVbc7PX9-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-35" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;IdCliente (FK, PK)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#030303;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="459.99632" y="220" width="140.22367999999997" height="23.33" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-36" value="IdEntrenador (FK, PK)" style="text;html=1;strokeColor=#030303;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="607.22" y="215.54" width="122.78" height="33.33" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-15" value="IdEntrenamiento (PK)" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="680" width="136" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-16" value="Frecuencia" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="585" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Dificultad&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="568.3308000000001" y="565" width="72.3292" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-18" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Nombre&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="620" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-19" value="Costo" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="545" width="38.33" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-20" value="PlanEjercicios" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="680" width="88.33" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.005;entryY=-0.223;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LZxNKWPRsar4pVbc7PX9-14" target="LZxNKWPRsar4pVbc7PX9-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZxNKWPRsar4pVbc7PX9-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.485;entryY=-0.335;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LZxNKWPRsar4pVbc7PX9-14" target="LZxNKWPRsar4pVbc7PX9-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
